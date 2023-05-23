@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import '../node_modules/ngx-banana-ui/src/lib/theme/theme.scss';
+
+/* Default theme */
+:root {
+  --banana-btn-bg-color: rgb(243, 223, 9);
+  --banana-btn-color: rgb(20, 21, 20);
+}
+
+banana-button[data-theme="spring"] {
+  --banana-btn-bg-color: rgb(173, 178, 21);
+  --banana-btn-color: rgb(241, 49, 84);
+}

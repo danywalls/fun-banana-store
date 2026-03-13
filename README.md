@@ -1,4 +1,17 @@
-# FunBananaStore
+> [!NOTE]
+> This repository contains the source code for the article: **[Angular Component Library Part 2: How to Theme and Publish Your Library](https://www.telerik.com/blogs/angular-component-library-part-2-how-to-theme-publish-npm)** originally published on [Telerik Blogs](https://www.telerik.com/blogs).
+
+# Angular Component Library Part 2: How to Theme and Publish Your Library
+
+## Project Summary
+Part 2 of the series focuses on adding professional themes to your library and publishing it to a package registry like npm.
+
+## How to Run
+### Installation
+1. `npm install` 
+
+### Running
+1. `ng serve` to see the 'Banana Store' app consuming the themed library.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
@@ -25,3 +38,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+Stay connected: [@danywalls](https://twitter.com/danywalls)

@@ -1,7 +1,17 @@
 > [!NOTE]
-> This repository contains the source code for the article: **[Angular Component Library Part 2: How to Theme and Publish Your Library](https://www.telerik.com/blogs/angular-component-library-part-2-how-to-theme-publish-npm)** originally published on [Telerik Blogs](https://www.telerik.com/blogs).
+> This repository contains the source code for the article: **[Angular Component Library Part 2: How to Theme and Publish Your Library to npm](https://www.telerik.com/blogs/angular-component-library-part-2-how-to-theme-publish-npm)** originally published on [Telerik Blogs](https://www.telerik.com/blogs).
 
-# Angular Component Library Part 2: How to Theme and Publish Your Library
+# Angular Component Library Part 2: How to Theme and Publish Your Library to npm
+
+## Project Summary
+Part 2 of the series focuses on adding professional themes to your library and publishing it to a package registry like npm.
+
+## How to Run
+### Installation
+1. `npm install` 
+
+### Running
+1. `ng serve` to see the 'Banana Store' app consuming the themed library.
 
 ## Project Summary
 Part 2 of the series focuses on adding professional themes to your library and publishing it to a package registry like npm.
